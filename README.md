@@ -1,6 +1,7 @@
-## Rafael de França
+## Olá! Eu sou o França
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eofrancaa)](https://github.com/eofrancaa/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eofrancaa&layout=compact)
 <!--
 **eoFrancaa/eoFrancaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
