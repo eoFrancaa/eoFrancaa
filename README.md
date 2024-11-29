@@ -2,7 +2,7 @@
 IFC - Tec Informática para Internet. 📚
 <div>
     
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eofrancaa)](https://github.com/eofrancaa/github-readme-stats)
+[![Anurag's GitHub stats]<img src="https://github-readme-stats.vercel.app/api?username=LeandroVish&show_icons=true&bg_color=00000000">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eofrancaa&layout=compact)
 
 </div>
