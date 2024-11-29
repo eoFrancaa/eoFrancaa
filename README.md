@@ -3,7 +3,7 @@ IFC - Tec Informática para Internet. 📚
 <div>
     
 <img src="https://github-readme-stats.vercel.app/api?username=LeandroVish&show_icons=true&bg_color=00000000">
-(https://github-readme-stats.vercel.app/api/top-langs/?username=eofrancaa&layout=compact)
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroVish&theme=midnight-purple&layout=compact&hide=html,css,scss,shell,procfile&bg_color=00000000">
 
 </div>
 
