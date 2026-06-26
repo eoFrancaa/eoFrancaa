@@ -1,5 +1,6 @@
-## Olá! Eu sou o França
+## Olá! Seja Bem-vindo ao meu Perfil
 IFC - Tec Informática para Internet. 📚
+BSI - Bacharelado em Sistemas de Informação. 
 <div>
     
 
